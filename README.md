@@ -1,4 +1,7 @@
+[![Alt text](banner.png)](https://www.linkedin.com/in/nazar-boyko "Nazar Boyko - LinkedIn")
+
 ## Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nazar_boyko_visitor_badge&left_color=royalblue&right_color=black" />
 
 <!--
 **nazboyko/nazboyko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+    
