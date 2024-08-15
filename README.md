@@ -25,9 +25,8 @@
             I'm a Software Engineer with 10+ years of experience, specializing in microservices, database optimization,
             and full-stack development. I've spearheaded high-impact projects for global companies,
             leading to a project reaching $10 million in annual revenue. I thrive on solving complex technical challenges
-            and have a proven track record of delivering scalable solutions that drive business growth. 
-        </p>
-        <p>
+            and have a proven track record of delivering scalable solutions that drive business growth.
+        <br>
             Beyond coding, I enjoy mentoring developers and staying updated with the latest industry trends,
             always aiming to bring innovative ideas to the teams I work with.
         </p>
