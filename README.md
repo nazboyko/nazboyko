@@ -15,12 +15,12 @@
         <a href="https://leetcode.com/u/Nazaroo/" target="_blank" style="text-decoration: none;">
             <img align="left" width="50%" 
             alt="Nazar Boyko - Leetcode Statistics. If you see this text, probably I removed the statistics banner for some reason :)" 
-            src="https://github.com/nazboyko/nazboyko/raw/main/leedcode-statictic.png">
+            src="https://github.com/nazboyko/nazboyko/raw/main/leedcode-statictics.png">
         </a>
     </div>
     <!-- Right Column: About Me -->
     <div style="flex: 1; max-width: 45%; text-align: left; margin-left: 20px;">
-        <h3>🧑‍💻 About Me</h3>
+        <h3>About Me</h3>
         <p>
             I'm a Software Engineer with 10+ years of experience, specializing in microservices, database optimization,
             and full-stack development. I've spearheaded high-impact projects for global companies,
