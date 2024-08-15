@@ -15,7 +15,7 @@
         <a href="https://leetcode.com/u/Nazaroo/" target="_blank" style="text-decoration: none;">
             <img align="left" width="50%" 
             alt="Nazar Boyko - Leetcode Statistics. If you see this text, probably I removed the statistics banner for some reason :)" 
-            src="https://github.com/nazboyko/nazboyko/main/leedcode-statictic.png">
+            src="https://github.com/nazboyko/nazboyko/raw/main/leedcode-statictic.png">
         </a>
     </div>
     <!-- Right Column: About Me -->
